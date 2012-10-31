@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>se.vgregion.rp-layouttpl-2</groupId>
 		<artifactId>rp-layouttpl-2-core-bc</artifactId>
-		<version>1.1-SNAPSHOT</version>
+		<version>1.1</version>
         <relativePath>../../pom.xml</relativePath>
 	</parent>
 	<groupId>se.vgregion.rp-layouttpl-2</groupId>
@@ -13,7 +13,7 @@
 	<packaging>war</packaging>
 	<name>rp-layouttpl-2</name>
 
-	<version>1.1-SNAPSHOT</version>
+	<version>1.1</version>
 	<build>
 		<finalName>rp-v2-layouttpl</finalName>
 		<plugins>
