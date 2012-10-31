@@ -23,10 +23,10 @@
   </modules>
 
   <!--NB! SCM config below assumes system name equals VGR subversion/googlecode project name! -->
-  <!-- Open Source repo 
+  <!-- Open Source repo -->
   <scm>
     <developerConnection>scm:svn:https://oppna-program-rp-layouttpl-2.googlecode.com/svn/trunk</developerConnection>
     <url>http://oppna-program-rp-layouttpl-2.googlecode.com/svn/trunk</url>
   </scm>
--->
+
 </project>
