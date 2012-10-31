@@ -1,0 +1,10 @@
+/core-bc/modules/layouttpl/src/main/resources/rebel.xml
+
+.DS_Store
+
+.settings/*
+.classpath
+.project
+
+core-bc/modules/layouttpl/target/*
+core-bc/modules/layouttpl/.settings/*
